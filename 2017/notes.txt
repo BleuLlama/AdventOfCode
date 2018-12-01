@@ -1,0 +1,15 @@
+10 - step 2 is the crazy knot hash SHA thing
+11 - hex grid challenge
+12 - digital plumber - count items in group 0 (create a graph)
+13 - packet scanners - round robin through deep lists etc
+14 - disk defrag - uses hash from 10?
+15 - dueling generators - bit pattern competition
+
+17 - spinlock - insertion list thing
+18 - duet - VM emulator
+
+21 - game of life
+22 - spiral life thing/virus
+23 - VM #2
+24 - bridge/graph walking
+25 - turing machine on tape list
